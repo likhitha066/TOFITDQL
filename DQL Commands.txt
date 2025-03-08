@@ -1,0 +1,13 @@
+                                       DQL COMMANDS
+
+    
+                             CRUD Operations in DQL Commands 
+
+
+1. Create: INSERT INTO students (name, age, grade) VALUES ('John', 22, 'A');
+
+2. Read: SELECT * FROM students;
+
+3. Update: UPDATE students SET age = 23 WHERE name = 'John';
+
+4. Delete: DELETE FROM students WHERE name = 'John';
